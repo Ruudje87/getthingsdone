@@ -18,6 +18,17 @@
   "homepage": "https://github.com/Ruudje87/getthingsdone#readme",
   "dependencies": {
     "gulp": "^3.9.1",
-    "gulp-sass": "^4.0.2"
+    "gulp-buffer": "0.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-hash": "^4.2.2",
+    "gulp-minify": "^3.1.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-watch": "^5.0.1",
+    "merge2": "^1.2.3",
+    "request": "^2.88.0",
+    "vinyl-source-stream": "^2.0.0"
   }
 }
